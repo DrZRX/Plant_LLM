@@ -1,1 +1,1 @@
-# Plant_LLM
+# Plant_GPT
