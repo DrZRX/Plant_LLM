@@ -1,5 +1,10 @@
 # Plant_GPT
 
+Using PlantGPT directly: www.plantgpt.icu
+
+![image](https://github.com/user-attachments/assets/919b2740-f99f-4ac5-a6cc-13f9ea0d56f7)
+
+
 All local run code for the article "PlantGPT: An Arabidopsis-Based Intelligent Agent that Answers Questions about Plant Functional Genomics" is here.
 
 Prepare the original .json files of Arabidopsis vector database and RAG implementation: https://drive.google.com/drive/folders/1QbUmcYSd_SJv8TxqwKY-t_naECnoAn1e?usp=sharing
