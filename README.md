@@ -1,5 +1,5 @@
 # Plant_GPT
-# All local run code for the article "PlantGPT: An Arobidopsis-based Intelligent Agent for Plant Functional Genomics Q&A" is here.
+# <small> All local run code for the article "PlantGPT: An Arobidopsis-based Intelligent Agent for Plant Functional Genomics Q&A" is here.</small>
 # Prepare the original .json files of Arabidopsis vector database and RAG implementation: https://drive.google.com/drive/folders/1QbUmcYSd_SJv8TxqwKY-t_naECnoAn1e?usp=sharing
 # Access the fine-tuning dataset: https://drive.google.com/file/d/1cam5m0Ty0lCrbnvhirn_IMArcu4DLReB/view?usp=haring
 # Fine-tuning solution reference: https://github.com/unslothai/unsloth
